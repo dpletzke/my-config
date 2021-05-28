@@ -16,5 +16,3 @@ alias zshenv="st ~/.zshenv"
 alias ohmyalias="st ~/.oh-my-zsh/custom/custom.zsh"
 alias ohmyzsh="st ~/.oh-my-zsh"
 alias sourcezsh="source ~/.oh-my-zsh/custom/custom.zsh && source ~/.zshrc"
-
-alias vin="vagrant up && vagrant ssh"
